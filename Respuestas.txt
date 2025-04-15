@@ -1,0 +1,14 @@
+¿Por qué no se puede ver el archivo tp2_2_2.c?
+Ocurre que el archivo tp2_2_2.c fue creado en la rama Opcion_2 y 
+al cambiar de nuevo a la rama principal main este no se vera 
+reflejado pues ambas ramas son independientes
+
+Luego de agregar el archivo Respuestas.txt y realizar un commit, 
+¿qué diferencias nota en el Source Control?
+Volví a main y la rama Opcion_2 sigue siendo independiente a la
+rama principal, por lo tanto, no se pueden ver los cambios realizados
+en la misma
+
+¿Qué cambios se notan ahora que se combinaron (merge) ambos repositorios?
+Ahora los cambios realizados en la rama Opcion_2 ya se ven reflejados
+en la rama principal
